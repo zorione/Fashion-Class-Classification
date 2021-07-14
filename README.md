@@ -1,5 +1,5 @@
 # Fashion Class Classification
-This repo consists of the Fashion Class Classification Case Study from the course, Machine Learning Practical: 6 Real-World Applications.
+Code for Fashion Class Classification Case Study from the course, Machine Learning Practical: 6 Real-World Applications.
 
 ## Problem 
 Need to classify a dataset of 10,000 images, each of which is a 28x28 Grayscale Image, into one of the associated 10 Classes. For training of the model, a dataset of 60,000 images is also provided.  
